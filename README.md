@@ -1,8 +1,8 @@
 # AndreaH.github.io
 <header class='masthead'>
   <p class='masthead-intro'></p>
-  <h1 class='masthead-heading'>Hi, my name is Andrea!</h1>
-  <p> Welcome to my site! </p>
+  <h1 style="text-align: center;">Hi, my name is Andrea!</h1>
+  <p style="text-align: center;">Welcome to my website!</p>
 </header>
 <center><img src="Humphries_Andrea.JPG" width="200" height="266" align="BOTTOM" /></center><hr />
     <h1>About Me</h1>
