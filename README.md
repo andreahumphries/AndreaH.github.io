@@ -9,4 +9,3 @@
 <p>My name is Andrea and I am a Freshman at the University of Texas at Austin! I am from Houston, TX but I grew up in England and Abu Dhabi. My hobbies include reading, hanging out with my friends, watching shows, and painting. My favourite shows include Stranger Things, The Office, Parks and Rec, Jane the Virgin, How I met your mother, and the Great British Baking Show! My favourite drink is tea and my favourite food are mangoes! <br /><br /></p>
 </body>
 <hr />
-
